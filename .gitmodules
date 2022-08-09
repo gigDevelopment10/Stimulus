@@ -1,0 +1,3 @@
+[submodule "stimulus-starter"]
+	path = stimulus-starter
+	url = https://github.com/hotwired/stimulus-starter.git
